@@ -51,7 +51,7 @@ Before diving into the practical exercises, ensure you have the following:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/networking-basics.git
+   git clone https://github.com/samhere19/Computer-Networking-Cisco-Packet-Tracer-.git
    ```
 
 2. Navigate to each section's folder to access detailed instructions and Packet Tracer scenarios.
